@@ -22,6 +22,7 @@
 
 </div>
 
+
 I'm an MBBS doctor who spends most of my free time several layers deeper than most people ever go into their phone's software — building and maintaining custom Android ROMs from source.
 
 I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename `macanc`), handling everything from device tree and kernel work to camera HAL integration, recovery builds, and OTA delivery.
