@@ -1,36 +1,49 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7df9ff,50:ff6b9d,100:c77dff&height=160&section=header&animation=twinkling" width="100%"/>
+
+<br><br>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=650&lines=HEY+THERE!;I'M+RaB1DLANDMINE;ANDROID+ARCHITECT;CUSTOM+ROM+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=46&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=700&lines=HEY+THERE!;I'M+RaB1DLANDMINE;ANDROID+ARCHITECT;CUSTOM+ROM+DEVELOPER" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=FF6B9D&center=true&vCenter=true&width=440&lines=I+build+Android+ROMs.;OnePlus+Ace+6T+maintainer.;It+usually+boots." alt="Tagline" />
+</p>
 
 <br>
 
-<!-- Clean Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&width=450&lines=I+just+build+custom+ROMs+as+a+hobby;Med+student+by+day,+ROM+builder+by+night" alt="Tagline" />
-</p>
-
-<!-- Neon Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7df9ff,50:ff6b9d,100:c77dff&height=3&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
 <br>
 
-## 🌱 About Me
+## 🌱 About
 
-Hey! I'm **RaB1DLANDMINE** — a med student by day, ROM builder by night. I love tinkering with Android, breaking things, and occasionally fixing them too.
+I'm **RaB1DLANDMINE**. I break Android, then put it back together with better battery life.
 
-- 📱 **ROM Builder** • Linux Explorer • Kernel Tinkerer
-- 🩺 **MBBS Doctor** — dual-booting between medicine and makefiles
+- 📱 ROM Builder • Linux Explorer • Kernel Tinkerer
+- 🩺 MBBS Doctor — dual-booting between medicine and makefiles
 - 🛠️ Currently maintaining Custom ROMs for **OnePlus Ace 6T**
-- 🐧 Learning **Linux** & Android Framework internals
+- 🐧 Learning Linux & Android Framework internals
+
+<br>
+
+## ⚡ Current Build
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OnePlus-Ace%206T-7DF9FF?style=for-the-badge&logo=oneplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Maintained-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Base-AOSP-FF6B9D?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 <br>
 
@@ -94,5 +107,5 @@ Hey! I'm **RaB1DLANDMINE** — a med student by day, ROM builder by night. I lov
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7df9ff,50:ff6b9d,100:c77dff&height=3&section=footer&animation=twinkling" width="100%"/>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=400&lines=STAY+CUSTOM+%E2%80%A2+STAY+NEON;BUILT+WITH+CAFFEINE+AND+ZERO+SLEEP" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=13&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=400&lines=STAY+CUSTOM+%E2%80%A2+STAY+NEON" alt="Footer" />
 </div>
