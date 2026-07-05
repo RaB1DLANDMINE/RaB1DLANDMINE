@@ -1,0 +1,25 @@
+<svg width="620" height="90" viewBox="0 0 620 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4.5" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="620" height="90" rx="10" fill="#0A0A0F"/>
+  <rect x="0.75" y="0.75" width="618.5" height="88.5" rx="9" fill="none" stroke="#00E5FF" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text x="28" y="49" font-family="'Fira Code', 'Courier New', monospace" font-size="24" fill="#00E5FF" filter="url(#glow)">&#10095;</text>
+  <text x="64" y="49" font-family="'Fira Code', 'Courier New', monospace" font-weight="700" font-size="25" letter-spacing="3" fill="#00E5FF" filter="url(#glow)">TOOLS &amp; PLATFORMS</text>
+
+  <rect x="28" y="70" width="564" height="2" fill="url(#fade)"/>
+</svg>
