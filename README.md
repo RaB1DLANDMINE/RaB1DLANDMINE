@@ -88,11 +88,6 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaB1DLANDMINE&show_icons=true&theme=radical&title_color=FF003C&icon_color=00E5FF&text_color=CCCCCC&bg_color=0D0D0D&border_color=FF003C&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaB1DLANDMINE&layout=compact&theme=radical&title_color=FF003C&text_color=CCCCCC&bg_color=0D0D0D&border_color=FF003C&hide_border=false" height="165"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=RaB1DLANDMINE&theme=radical&background=0D0D0D&border=FF003C&stroke=FF003C&ring=FF003C&fire=00E5FF&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF003C&sideLabels=00E5FF&dates=999999" height="165"/>
 
 <br/><br/>
@@ -106,7 +101,5 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:FF003C,100:0D0D0D&height=3&section=footer" width="100%"/>
-
-<sub>// EOF //</sub>
 
 </div>
