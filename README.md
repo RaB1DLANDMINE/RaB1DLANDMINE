@@ -2,21 +2,22 @@
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=650&lines=HEY+THERE!;I'M+RaB1DLANDMINE;ANDROID+ARCHITECT;CUSTOM+ROM+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=800&color=7DF9FF&center=true&vCenter=true&width=650&lines=HEY+THERE!;I'M+RaB1DLANDMINE;ANDROID+ARCHITECT;CUSTOM+ROM+DEVELOPER" alt="Typing SVG" />
 </a>
 
-<!-- Waving Hand -->
-<h3>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-</h3>
+<br>
 
-<!-- Tagline -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=🌟+I+JUST+BUILD+CUSTOM+ROMS+AS+A+HOBBY+🌟" alt="Tagline" />
-</h3>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px">
+
+<br>
+
+<!-- Clean Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&duration=3500&pause=1000&color=FF6B9D&center=true&vCenter=true&width=450&lines=I+just+build+custom+ROMs+as+a+hobby;Med+student+by+day,+ROM+builder+by+night" alt="Tagline" />
+</p>
 
 <!-- Neon Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7df9ff,50:ff6b9d,100:c77dff&height=4&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7df9ff,50:ff6b9d,100:c77dff&height=3&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -27,13 +28,13 @@
 Hey! I'm **RaB1DLANDMINE** — a med student by day, ROM builder by night. I love tinkering with Android, breaking things, and occasionally fixing them too.
 
 - 📱 **ROM Builder** • Linux Explorer • Kernel Tinkerer
-- 🩺 **MBBS Doctor** — Dual-booting between medicine and makefiles
-- 🛠️ Currently maintaining Custom ROMs for **OnePlus 12R (Aston)**
+- 🩺 **MBBS Doctor** — dual-booting between medicine and makefiles
+- 🛠️ Currently maintaining Custom ROMs for **OnePlus Ace 6T**
 - 🐧 Learning **Linux** & Android Framework internals
 
 <br>
 
-## 💻 Languages I Use
+## 💻 Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-7DF9FF?style=for-the-badge&logo=c&logoColor=black" />
@@ -48,7 +49,7 @@ Hey! I'm **RaB1DLANDMINE** — a med student by day, ROM builder by night. I lov
 
 <br>
 
-## 🛠️ Tools & Tech
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/AOSP-7DF9FF?style=for-the-badge&logo=android&logoColor=black" />
@@ -63,17 +64,17 @@ Hey! I'm **RaB1DLANDMINE** — a med student by day, ROM builder by night. I lov
 
 <br>
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="left">
-  <a href="https://t.me/GauravPaul1" target="_blank">
-    <img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-7DF9FF?style=for-the-badge&logo=telegram&logoColor=black" />
+  <a href="https://t.me/rab1ds" target="_blank">
+    <img src="https://img.shields.io/badge/Releases%20Channel-7DF9FF?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
 </p>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-paul9&show_icons=true&theme=radical&title_color=7df9ff&text_color=e0e0e0&icon_color=ff6b9d&bg_color=0d1117&border_color=7df9ff&hide_border=false" height="180" />
@@ -91,7 +92,7 @@ Hey! I'm **RaB1DLANDMINE** — a med student by day, ROM builder by night. I lov
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7df9ff,50:ff6b9d,100:c77dff&height=4&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7df9ff,50:ff6b9d,100:c77dff&height=3&section=footer&animation=twinkling" width="100%"/>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=400&lines=STAY+CUSTOM+•+STAY+NEON;BUILT+WITH+CAFFEINE+AND+ZERO+SLEEP" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=400&lines=STAY+CUSTOM+%E2%80%A2+STAY+NEON;BUILT+WITH+CAFFEINE+AND+ZERO+SLEEP" alt="Footer" />
 </div>
