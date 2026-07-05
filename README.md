@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-39FF14?style=for-the-badge&labelColor=0D0D0D"/>
 </p>
 
-</div>
-
 <br/>
 
-## About
+<img src="assets/headline-about.svg" width="400"/>
+
+</div>
 
 I'm an MBBS doctor who spends most of my free time several layers deeper than most people ever go into their phone's software — building and maintaining custom Android ROMs from source.
 
@@ -30,7 +30,9 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 
 <div align="center">
 
-### Current Build
+<img src="assets/headline-current-build.svg" width="500"/>
+
+<br/><br/>
 
 | | |
 |---|---|
@@ -40,13 +42,11 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 | **Base** | AOSP 16 |
 | **Role** | ROM Maintainer & Kernel Author |
 
-</div>
-
 <br/>
 
-## Tech Stack
+<img src="assets/headline-tech-stack.svg" width="460"/>
 
-<div align="center">
+<br/><br/>
 
 <img src="https://img.shields.io/badge/C-FF003C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/C++-00E5FF?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D0D0D"/>
@@ -57,13 +57,11 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 <img src="https://img.shields.io/badge/Makefile-FF003C?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Smali-00E5FF?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0D0D"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="assets/headline-tools-platforms.svg" width="620"/>
 
-## Tools & Platforms
-
-<div align="center">
+<br/><br/>
 
 <img src="https://img.shields.io/badge/AOSP-FF003C?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/LineageOS-00E5FF?style=for-the-badge&logo=lineageos&logoColor=white&labelColor=0D0D0D"/>
@@ -74,49 +72,41 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 <img src="https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Linux-FF003C?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D0D0D"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="assets/headline-connect.svg" width="420"/>
 
-## Connect
-
-<div align="center">
+<br/><br/>
 
 <a href="https://t.me/rab1ds" target="_blank">
   <img src="https://img.shields.io/badge/Releases%20Channel-00E5FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0D0D"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="assets/headline-github-stats.svg" width="500"/>
 
-## GitHub Stats
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RaB1DLANDMINE&show_icons=true&theme=radical&title_color=FF003C&icon_color=00E5FF&text_color=CCCCCC&bg_color=0D0D0D&border_color=FF003C&hide_border=false" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaB1DLANDMINE&layout=compact&theme=radical&title_color=FF003C&text_color=CCCCCC&bg_color=0D0D0D&border_color=FF003C&hide_border=false" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaB1DLANDMINE&theme=radical&background=0D0D0D&border=FF003C&stroke=FF003C&ring=FF003C&fire=00E5FF&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF003C&sideLabels=00E5FF&dates=999999" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=RaB1DLANDMINE&theme=radical&background=0D0D0D&border=FF003C&stroke=FF003C&ring=FF003C&fire=00E5FF&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=FF003C&sideLabels=00E5FF&dates=999999" height="165"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/RaB1DLANDMINE/RaB1DLANDMINE/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaB1DLANDMINE/RaB1DLANDMINE/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaB1DLANDMINE&label=Profile+Views&color=FF003C&style=for-the-badge"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=RaB1DLANDMINE&label=Profile+Views&color=FF003C&style=for-the-badge"/>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:FF003C,100:0D0D0D&height=3&section=footer" width="100%"/>
 
-<p align="center" style="font-size: 11px;"><sub>// EOF //</sub></p>
+<sub>// EOF //</sub>
+
+</div>
