@@ -12,7 +12,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Device-OnePlus%20Ace%206T-FF003C?style=for-the-badge&logo=oneplus&logoColor=white&labelColor=0D0D0D"/>
-  <img src="https://img.shields.io/badge/ROM-Project%20Infinity%20X-00E5FF?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/ROM-petalOS-00E5FF?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0D0D"/>
   <img src="https://img.shields.io/badge/Status-Actively%20Maintained-39FF14?style=for-the-badge&labelColor=0D0D0D"/>
 </p>
 
