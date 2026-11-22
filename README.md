@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF003C&center=true&vCenter=true&width=560&lines=Android+ROM+Builder;Kernel+Tinkerer;OnePlus+Ace+6T+Maintainer" alt="Typing SVG"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Doctor+by+day%2C+kernel+dev+by+night;Building+Project+Infinity+X+for+macanc" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=1200&color=00E5FF&center=true&vCenter=true&width=560&lines=Doctor+by+day%2C+kernel+dev+by+night;Building+petalOS" alt="Tagline"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 I'm an MBBS doctor who spends most of my free time several layers deeper than most people ever go into their phone's software — building and maintaining custom Android ROMs from source.
 
-I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename `macanc`), handling everything from device tree and kernel work to camera HAL integration, recovery builds, and OTA delivery.
+I currently maintain **petalOS** for the **OnePlus Ace 6T** (codename `macanc`), handling everything from device tree and kernel work to camera HAL integration, recovery builds, and OTA delivery.
 
 <br/>
 
@@ -40,7 +40,7 @@ I currently maintain **Project Infinity X** for the **OnePlus Ace 6T** (codename
 |---|---|
 | **Device** | OnePlus Ace 6T (`macanc`) |
 | **Platform** | Snapdragon 8 Elite / SM8850 |
-| **ROM** | Project Infinity X |
+| **ROM** | petalOS |
 | **Base** | AOSP 16 |
 | **Role** | ROM Maintainer & Kernel Author |
 
