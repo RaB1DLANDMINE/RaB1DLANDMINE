@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FBFAFE"/><stop offset="1" stop-color="#EEE7FD"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="34"/></filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+    <clipPath id="clip"><rect width="1200" height="440" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <ellipse cx="600" cy="420" rx="520" ry="160" fill="#B9A2F6" opacity="0.55" filter="url(#soft)"/>
+    <text x="600" y="330" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Arial,sans-serif" font-weight="900" font-size="300"
+          letter-spacing="-10" fill="#6E43EA" opacity="0.62" filter="url(#blur)">rab1d</text>
+    <g fill="none" stroke="#7C5CF0" stroke-opacity="0.48" stroke-width="1.4" opacity="0.55">
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(-75.0)"/>
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(-50.0)"/>
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(-25.0)"/>
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(0.0)"/>
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(25.0)"/>
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(50.0)"/>
+    <path d="M0,0 C-150.0,-144.4 -120.0,-330.0 0,-412.5 C120.0,-330.0 150.0,-144.4 0,0 Z" transform="translate(600,520) rotate(75.0)"/>
+    <path d="M0,0 C-125.0,-109.4 -100.0,-250.0 0,-312.5 C100.0,-250.0 125.0,-109.4 0,0 Z" transform="translate(600,520) rotate(-55.0)"/>
+    <path d="M0,0 C-125.0,-109.4 -100.0,-250.0 0,-312.5 C100.0,-250.0 125.0,-109.4 0,0 Z" transform="translate(600,520) rotate(-27.5)"/>
+    <path d="M0,0 C-125.0,-109.4 -100.0,-250.0 0,-312.5 C100.0,-250.0 125.0,-109.4 0,0 Z" transform="translate(600,520) rotate(0.0)"/>
+    <path d="M0,0 C-125.0,-109.4 -100.0,-250.0 0,-312.5 C100.0,-250.0 125.0,-109.4 0,0 Z" transform="translate(600,520) rotate(27.5)"/>
+    <path d="M0,0 C-125.0,-109.4 -100.0,-250.0 0,-312.5 C100.0,-250.0 125.0,-109.4 0,0 Z" transform="translate(600,520) rotate(55.0)"/>
+    <path d="M0,0 C-87.5,-74.4 -70.0,-170.0 0,-212.5 C70.0,-170.0 87.5,-74.4 0,0 Z" transform="translate(600,520) rotate(-30.0)"/>
+    <path d="M0,0 C-87.5,-74.4 -70.0,-170.0 0,-212.5 C70.0,-170.0 87.5,-74.4 0,0 Z" transform="translate(600,520) rotate(0.0)"/>
+    <path d="M0,0 C-87.5,-74.4 -70.0,-170.0 0,-212.5 C70.0,-170.0 87.5,-74.4 0,0 Z" transform="translate(600,520) rotate(30.0)"/>
+    </g>
+    <text x="600" y="190" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Arial,sans-serif" font-weight="800" font-size="70"
+          letter-spacing="-2.5" fill="#17132B">Hi, I'm rab1d.</text>
+    <text x="600" y="250" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Arial,sans-serif" font-size="25" fill="#5B5670">I make phones behave. Mostly OnePlus ones. Mostly <tspan font-style="italic">petalOS</tspan>.</text>
+    <rect x="490" y="290" width="220" height="56" rx="28" fill="#6E43EA"/>
+    <text x="600" y="326" text-anchor="middle" font-family="'Segoe UI Variable Display','Segoe UI','Helvetica Neue',Inter,Arial,sans-serif" font-weight="600" font-size="21"
+          fill="#FFFFFF">petalos.xyz</text>
+  </g>
+</svg>
